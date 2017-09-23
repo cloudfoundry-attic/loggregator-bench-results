@@ -1,0 +1,7 @@
+{
+  "benchmark.doppler_throughput.n": 20000,
+  "benchmark.doppler_throughput.ns_per_op": 91578,
+  "benchmark.doppler_throughput.alloced_bytes_per_op": 14402,
+  "benchmark.doppler_throughput.allocs_per_op": 265,
+  "benchmark.doppler_throughput.mb_per_s": 0
+}
