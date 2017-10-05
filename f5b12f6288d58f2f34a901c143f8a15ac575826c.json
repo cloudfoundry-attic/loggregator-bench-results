@@ -1,0 +1,12 @@
+{
+  "benchmark.doppler_throughput_v1_to_v1.n": 20000,
+  "benchmark.doppler_throughput_v1_to_v1.ns_per_op": 57113,
+  "benchmark.doppler_throughput_v1_to_v1.alloced_bytes_per_op": 10032,
+  "benchmark.doppler_throughput_v1_to_v1.allocs_per_op": 187,
+  "benchmark.doppler_throughput_v1_to_v1.mb_per_s": 0,
+  "benchmark.doppler_throughput_v2_to_v1.n": 10000,
+  "benchmark.doppler_throughput_v2_to_v1.ns_per_op": 103118,
+  "benchmark.doppler_throughput_v2_to_v1.alloced_bytes_per_op": 13271,
+  "benchmark.doppler_throughput_v2_to_v1.allocs_per_op": 243,
+  "benchmark.doppler_throughput_v2_to_v1.mb_per_s": 0
+}
