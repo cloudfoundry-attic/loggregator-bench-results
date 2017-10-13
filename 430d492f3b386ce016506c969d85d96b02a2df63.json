@@ -1,0 +1,17 @@
+{
+  "benchmark.doppler_throughput_v1_to_v1_1000.n": 30000,
+  "benchmark.doppler_throughput_v1_to_v1_1000.ns_per_op": 83761,
+  "benchmark.doppler_throughput_v1_to_v1_1000.alloced_bytes_per_op": 9278,
+  "benchmark.doppler_throughput_v1_to_v1_1000.allocs_per_op": 172,
+  "benchmark.doppler_throughput_v1_to_v1_1000.mb_per_s": 0,
+  "benchmark.doppler_throughput_v2_to_v1_1000.n": 30000,
+  "benchmark.doppler_throughput_v2_to_v1_1000.ns_per_op": 44322,
+  "benchmark.doppler_throughput_v2_to_v1_1000.alloced_bytes_per_op": 2932,
+  "benchmark.doppler_throughput_v2_to_v1_1000.allocs_per_op": 47,
+  "benchmark.doppler_throughput_v2_to_v1_1000.mb_per_s": 0,
+  "benchmark.doppler_throughput_v2_to_v2_1000.n": 50000,
+  "benchmark.doppler_throughput_v2_to_v2_1000.ns_per_op": 35046,
+  "benchmark.doppler_throughput_v2_to_v2_1000.alloced_bytes_per_op": 2957,
+  "benchmark.doppler_throughput_v2_to_v2_1000.allocs_per_op": 52,
+  "benchmark.doppler_throughput_v2_to_v2_1000.mb_per_s": 0
+}
